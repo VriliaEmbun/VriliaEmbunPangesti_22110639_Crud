@@ -92,6 +92,3 @@ String DBPASS = "";
 ## 📌 Lisensi
 
 Proyek ini dibuat untuk keperluan latihan pribadi dan edukasi.
-
-```
-
